@@ -1,0 +1,1 @@
+Please note that this project serves as a yelp powered restaurant recommendation program and was worked on by myself at UCB. All the files in this project was not written entirely by me but the majority of the code seen in abstractions.py, recommend.py, and utils.py is my work.
